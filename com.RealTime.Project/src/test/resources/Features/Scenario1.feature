@@ -1,3 +1,4 @@
+@Test
 Feature: Testing my Cucumber framework
 
   Background: To check login module
